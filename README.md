@@ -1,4 +1,8 @@
-### Hi there 👋
+### 嗨 Hi there 👋
+
+我叫橘子233，是一个菜鸟程序员。<!--我（也许）非常享受C&#35;和语法简单(但是函数名不能重复的)的C。-->
+
+I'm Orange233, a noob programmer.
 
 <!--
 **Orange23333/Orange23333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Orange233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orange23333&show_icons=true&theme=gruvbox_light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Orange233's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orange23333&layout=compact&theme=gruvbox_light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
