@@ -2,7 +2,7 @@
 
 嗨，我是一个菜鸟程序员。请通过Issus提交你的问题。<!--我（也许）非常享受C&#35;和语法简单(但是函数名不能重复的)的C。-->因为网络问题，我现在更多的在[Gitee](https://gitee.com/orange23333)上活动。
 
- Hi, I'm a noob programmer. Please submit your problem over Issues. Due to network issues, I'm acting on Gitee first now.
+ Hi, I'm a noob programmer. Please submit your problem over Issues. Due to network issues, I'm acting on [Gitee](https://gitee.com/orange23333) first now.
 
 <!--
 **Orange23333/Orange23333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
