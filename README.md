@@ -1,8 +1,8 @@
 ### 嗨 Hi there 👋
 
-嗨，我是一个菜鸟程序员。请通过Issus提交你的问题。<!--我（也许）非常享受C&#35;和语法简单(但是函数名不能重复的)的C。-->因为网络问题，我现在更多的在[Gitee](https://gitee.com/orange23333)上活动。
+嗨，我是一个菜鸟程序员。请通过Issus提交你的问题。<!--我（也许）非常享受C&#35;和语法简单(但是函数名不能重复的)的C。-->因为网络问题，我现在更多的在[Gitee](https://gitee.com/orange23333)上活动。此外，我会把一部分仓库放在[Bisitsoft](https://github.com/Bisitsoft)里。
 
- Hi, I'm a noob programmer. Please submit your problem over Issues. Due to network issues, I'm acting on [Gitee](https://gitee.com/orange23333) first now.
+ Hi, I'm a noob programmer. Please submit your problem over Issues. Due to network issues, I'm acting on [Gitee](https://gitee.com/orange23333) first now. By the way, I will put some repositories into the [Bisitsoft](https://github.com/Bisitsoft).
 
 <!--
 **Orange23333/Orange23333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
