@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Orange233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orange23333&show_icons=true&theme=gruvbox_light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Orange233's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orange23333&layout=compact&theme=gruvbox_light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Orange233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orange23333&show_icons=true&theme=gruvbox_light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Orange233's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orange23333&layout=compact&theme=gruvbox_light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)-->
